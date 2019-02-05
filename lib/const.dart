@@ -1,0 +1,1 @@
+final double edgeSize = 18.0;
