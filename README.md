@@ -1,6 +1,6 @@
 # demo_api_calls
 
-A Networking Flutter application.
+A Flutter application for browsing movies from TheMovieDatabase api.
 
 ## Getting Started
 
